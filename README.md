@@ -1,5 +1,4 @@
-# Data Engineering YouTube Analysis Project by Darshil Parmar
-
+# Data Engineering YouTube Analysis Project
 ## Overview
 
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
@@ -28,7 +27,4 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
-## Complete Tutorial
-I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
 
-https://youtu.be/yZKJFKu49Dk
